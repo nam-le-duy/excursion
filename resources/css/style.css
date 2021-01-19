@@ -29,3 +29,8 @@ body {
 .info {
     color: white;
 }
+
+.footer {
+    color: gray;
+    text-align: right;
+}
